@@ -1,6 +1,6 @@
 {
   "name": "rhmap-auth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,5 +10,9 @@
   "license": "MIT",
   "dependencies": {
     "request": "^2.78.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Keyang/rhmap-auth.git"
   }
 }
